@@ -1,5 +1,5 @@
-[UserId]: 
-submission link: 
+[UserId]: Rudra2637
+submission link: https://leetcode.com/problems/longest-common-prefix/submissions/1365044367/
 
 [UserId]: 
 submission link: 
